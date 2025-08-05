@@ -4,7 +4,7 @@
 
 * 🚀 **Built and deployed** on IBM Cloud using Watson Assistant
 * 💬 **Real-time messaging** on WhatsApp via Twilio API
-* 🧠 **No-code conversation flow** with 7 key user-facing actions
+* 🧠 **No-code conversation flow** with multiple key user-facing actions
 * 🦪 **Fully tested** in real-world interaction scenarios
 
 ---
