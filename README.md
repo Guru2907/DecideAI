@@ -64,7 +64,7 @@ Bot Checks Eligibility → Collects Info → Ends Chat
 └── 🧠 action-skill.json
 
 🎥 Demonstration
-
+📜 LICENSE
 📜 README.md
 ```
 
