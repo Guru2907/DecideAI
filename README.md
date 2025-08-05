@@ -28,14 +28,6 @@
 
 ---
 
-## 🗼 Demonstration Snapshots
-
-| 👋 Greeting & Course Listing | 📖 Detailed Course Info |  🧾 Enrollment Flow  | ✅ Final Confirmation |
-| :--------------------------: | :---------------------: | :------------------: | :------------------: |
-|     ![O1](assets/O1.jpg)     |   ![O2](assets/O2.jpg)  | ![O3](assets/O3.png) | ![O4](assets/O4.jpg) |
-
-> 📁 Make sure to create an `assets/` folder and place your screenshots inside.
-
 ---
 
 ## 🔄 Conversational Flow Overview
