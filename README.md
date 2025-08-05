@@ -47,11 +47,11 @@ Bot Checks Eligibility → Collects Info → Ends Chat
 ├── 🖼️ O3.png
 ├── 🖼️ O4.jpg
 
-📁 code/
-└── 🐍 twilio_integration.py
-
 📁 blueprint/
 └── 🧠 action-skill.json
+
+📁 code/
+└── 🐍 twilio_integration.py
 
 🎥 Demonstration
 📜 LICENSE
