@@ -50,7 +50,7 @@ Bot Checks Eligibility → Collects Info → Ends Chat
 📁 code/
 └── 🐍 twilio_integration.py
 
-📁 deployment/
+📁 blueprint/
 └── 🧠 action-skill.json
 
 🎥 Demonstration
