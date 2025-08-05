@@ -23,7 +23,6 @@
 
 * 🧠 **IBM Watson Assistant** – Drag-and-drop Action Skill interface for logic building
 * 📲 **Twilio WhatsApp API** – Powers two-way messaging over WhatsApp
-* 🐍 **Python** – Twilio integration script for testing and notifications
 * 🧾 **JSON** – Core chatbot logic stored in `action-skill.json` for version control
 
 ---
